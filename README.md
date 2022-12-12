@@ -6,7 +6,7 @@ Encourage your visitors to connect with you by adding a "Made By" link to your w
 ## Simple Setup
 Copy & paste this script HTML into the header of your webpage. 
 
-    <script id="madeby-fm" src="https://freakingmagical.com/madeby.js" data-twitter-handle="nocodedarren" defer></script>
+    <script id="madeby-fm" src="https://cdn.jsdelivr.net/gh/amblemind/madeby/madeby.js" data-twitter-handle="nocodedarren" defer></script>
 
 ***Update the `data-twitter-handle` property with your Twitter handle.*** 
 
